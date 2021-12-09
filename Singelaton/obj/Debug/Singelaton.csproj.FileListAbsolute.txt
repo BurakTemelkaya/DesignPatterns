@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\Singelaton\bin\Debug\Singelaton.exe.config
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\Singelaton\bin\Debug\Singelaton.exe
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\Singelaton\bin\Debug\Singelaton.pdb
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\Singelaton\obj\Debug\Singelaton.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\Singelaton\obj\Debug\Singelaton.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\Singelaton\obj\Debug\Singelaton.exe
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\Singelaton\obj\Debug\Singelaton.pdb

@@ -1,0 +1,14 @@
+C:\Users\Burak\source\repos\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Burak\source\repos\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Burak\source\repos\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Burak\source\repos\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Burak\source\repos\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

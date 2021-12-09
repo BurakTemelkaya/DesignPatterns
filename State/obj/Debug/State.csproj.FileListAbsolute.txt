@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\State\bin\Debug\State.exe.config
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\State\bin\Debug\State.exe
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\State\bin\Debug\State.pdb
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\State\obj\Debug\State.exe
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\State\obj\Debug\State.pdb
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\State\obj\Debug\State.csproj.AssemblyReference.cache

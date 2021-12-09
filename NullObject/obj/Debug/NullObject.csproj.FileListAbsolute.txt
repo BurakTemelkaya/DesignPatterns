@@ -1,0 +1,6 @@
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\NullObject\obj\Debug\NullObject.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\NullObject\bin\Debug\NullObject.exe.config
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\NullObject\bin\Debug\NullObject.exe
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\NullObject\bin\Debug\NullObject.pdb
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\NullObject\obj\Debug\NullObject.exe
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\NullObject\obj\Debug\NullObject.pdb

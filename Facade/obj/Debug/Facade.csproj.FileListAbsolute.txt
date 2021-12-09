@@ -1,0 +1,6 @@
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\Facade\bin\Debug\Facade.exe
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\Facade\obj\Debug\Facade.exe
+C:\Users\Burak\source\repos\Odevler_ve_Projeler\dersler\BTKAkademi_C#\DesignPatterns\Facade\obj\Debug\Facade.pdb
